@@ -1,0 +1,19 @@
+{
+  "name": "login_page",
+  "version": "1.0.0",
+  "description": "Practice login page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msayes15/Login_Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msayes15/Login_Page/issues"
+  },
+  "homepage": "https://github.com/msayes15/Login_Page#readme"
+}
